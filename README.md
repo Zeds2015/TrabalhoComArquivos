@@ -1,6 +1,5 @@
 # TrabalhoComArquivos
-Pequeno executor de batch scripts, com algumas features. 
-/**
-* Não possui comentários, nas descrições dos métodos. Sei o javadoc não vai ficar tão legal.
-* It Don't has any comments in the method descriptions. I know that the javadoc will be ugly.
-*/
+
+Um programa bem básico inteiramente escrito em Java, o javadoc dele está na pasta Projeto - Arquivo.
+É um simples editor de texto limitado, para prompt.
+Bem no ínicio você verá que ele oferece algumas opções como criar um arquivo, modificar um arquivo, dentre outras.
